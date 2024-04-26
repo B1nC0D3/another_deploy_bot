@@ -3,8 +3,8 @@ Description=gpt-bot
 After=multi-user.target
 
 [Service]
-User=student
-Group=student
+User=root
+Group=root
 Type=simple
 Restart=always
 ExecStart=/usr/bin/python3 /home/student/another_deploy_bot/bot/bot.py
