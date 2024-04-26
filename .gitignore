@@ -2,3 +2,4 @@ venv/
 .idea/
 test.py
 tokens_task.py
+.env

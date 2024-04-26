@@ -14,3 +14,129 @@
 2024-04-26 19:13:43,312 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
 2024-04-26 19:14:03,354 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
 2024-04-26 19:14:23,397 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+2024-04-26 19:14:43,441 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+2024-04-26 19:15:03,483 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+2024-04-26 19:15:23,526 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+2024-04-26 19:15:43,568 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+2024-04-26 19:16:03,610 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+2024-04-26 19:16:23,653 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+2024-04-26 19:16:43,694 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+2024-04-26 19:17:03,736 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+2024-04-26 19:17:23,779 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+2024-04-26 19:17:43,822 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+2024-04-26 19:18:03,863 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+2024-04-26 19:18:23,904 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+2024-04-26 19:18:43,952 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+2024-04-26 19:19:03,995 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+2024-04-26 19:19:24,038 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+2024-04-26 19:19:44,128 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+2024-04-26 19:20:04,169 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+2024-04-26 19:20:24,240 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+2024-04-26 19:20:44,282 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+2024-04-26 19:20:44,287 Starting new HTTPS connection (1): api.telegram.org:443
+2024-04-26 19:21:04,451 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+2024-04-26 19:21:24,495 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+2024-04-26 19:21:39,450 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 409 143
+2024-04-26 19:21:39,459 Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-04-26 19:21:39,460 Exception traceback:
+Traceback (most recent call last):
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\__init__.py", line 1140, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\util.py", line 110, in raise_exceptions
+    raise self.exception_info
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\util.py", line 92, in run
+    task(*args, **kwargs)
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\__init__.py", line 661, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\__init__.py", line 633, in get_updates
+    json_updates = apihelper.get_updates(
+                   ^^^^^^^^^^^^^^^^^^^^^^
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\apihelper.py", line 321, in get_updates
+    return _make_request(token, method_url, params=payload)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\apihelper.py", line 164, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\apihelper.py", line 191, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+
+2024-04-26 19:21:43,122 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 409 143
+2024-04-26 19:21:43,123 Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-04-26 19:21:43,123 Exception traceback:
+Traceback (most recent call last):
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\__init__.py", line 1140, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\util.py", line 110, in raise_exceptions
+    raise self.exception_info
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\util.py", line 92, in run
+    task(*args, **kwargs)
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\__init__.py", line 661, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\__init__.py", line 633, in get_updates
+    json_updates = apihelper.get_updates(
+                   ^^^^^^^^^^^^^^^^^^^^^^
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\apihelper.py", line 321, in get_updates
+    return _make_request(token, method_url, params=payload)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\apihelper.py", line 164, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\apihelper.py", line 191, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+
+2024-04-26 19:21:47,234 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 409 143
+2024-04-26 19:21:47,235 Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-04-26 19:21:47,235 Exception traceback:
+Traceback (most recent call last):
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\__init__.py", line 1140, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\util.py", line 110, in raise_exceptions
+    raise self.exception_info
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\util.py", line 92, in run
+    task(*args, **kwargs)
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\__init__.py", line 661, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\__init__.py", line 633, in get_updates
+    json_updates = apihelper.get_updates(
+                   ^^^^^^^^^^^^^^^^^^^^^^
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\apihelper.py", line 321, in get_updates
+    return _make_request(token, method_url, params=payload)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\apihelper.py", line 164, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\apihelper.py", line 191, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+
+2024-04-26 19:21:52,347 https://api.telegram.org:443 "GET /bot6781055175:AAF-PaMGRcy21qn0aOPlpTLIz5wFO7cfhrc/getUpdates?offset=1&timeout=20 HTTP/1.1" 409 143
+2024-04-26 19:21:52,348 Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-04-26 19:21:52,349 Exception traceback:
+Traceback (most recent call last):
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\__init__.py", line 1140, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\util.py", line 110, in raise_exceptions
+    raise self.exception_info
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\util.py", line 92, in run
+    task(*args, **kwargs)
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\__init__.py", line 661, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\__init__.py", line 633, in get_updates
+    json_updates = apihelper.get_updates(
+                   ^^^^^^^^^^^^^^^^^^^^^^
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\apihelper.py", line 321, in get_updates
+    return _make_request(token, method_url, params=payload)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\apihelper.py", line 164, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "W:\Dev\Ya.P\group_22\yagpt_tokens_limitations\venv\Lib\site-packages\telebot\apihelper.py", line 191, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+
